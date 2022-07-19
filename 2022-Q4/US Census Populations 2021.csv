@@ -1,0 +1,434 @@
+GEOID,County,Population,State,CBSA Title,Metropolitan/Micropolitan Statistical Area,Metropolitan Division Title,CSA Title
+9001,"Fairfield County, Connecticut",957419,Connecticut,"Bridgeport-Stamford-Norwalk, CT",Metropolitan Statistical Area,,"New York-Newark, NY-NJ-CT-PA"
+23011,"Kennebec County, Maine",123642,Maine,"Augusta-Waterville, ME",Micropolitan Statistical Area,,
+23019,"Penobscot County, Maine",152199,Maine,"Bangor, ME",Metropolitan Statistical Area,,
+36001,"Albany County, New York",314848,New York,"Albany-Schenectady-Troy, NY",Metropolitan Statistical Area,,"Albany-Schenectady, NY"
+36083,"Rensselaer County, New York",161130,New York,"Albany-Schenectady-Troy, NY",Metropolitan Statistical Area,,"Albany-Schenectady, NY"
+36091,"Saratoga County, New York",235509,New York,"Albany-Schenectady-Troy, NY",Metropolitan Statistical Area,,"Albany-Schenectady, NY"
+36093,"Schenectady County, New York",158061,New York,"Albany-Schenectady-Troy, NY",Metropolitan Statistical Area,,"Albany-Schenectady, NY"
+24003,"Anne Arundel County, Maryland",588261,Maryland,"Baltimore-Columbia-Towson, MD",Metropolitan Statistical Area,,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+36095,"Schoharie County, New York",29714,New York,"Albany-Schenectady-Troy, NY",Metropolitan Statistical Area,,"Albany-Schenectady, NY"
+24005,"Baltimore County, Maryland",854535,Maryland,"Baltimore-Columbia-Towson, MD",Metropolitan Statistical Area,,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+24013,"Carroll County, Maryland",172891,Maryland,"Baltimore-Columbia-Towson, MD",Metropolitan Statistical Area,,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+24019,"Dorchester County, Maryland",32531,Maryland,"Cambridge, MD",Micropolitan Statistical Area,,"Salisbury-Cambridge, MD-DE"
+24025,"Harford County, Maryland",260924,Maryland,"Baltimore-Columbia-Towson, MD",Metropolitan Statistical Area,,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+24027,"Howard County, Maryland",332317,Maryland,"Baltimore-Columbia-Towson, MD",Metropolitan Statistical Area,,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+24035,"Queen Anne's County, Maryland",49874,Maryland,"Baltimore-Columbia-Towson, MD",Metropolitan Statistical Area,,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+34041,"Warren County, New Jersey",109632,New Jersey,"Allentown-Bethlehem-Easton, PA-NJ",Metropolitan Statistical Area,,
+24037,"St. Mary's County, Maryland",113777,Maryland,"California-Lexington Park, MD",Metropolitan Statistical Area,,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+42025,"Carbon County, Pennsylvania",64749,Pennsylvania,"Allentown-Bethlehem-Easton, PA-NJ",Metropolitan Statistical Area,,
+42077,"Lehigh County, Pennsylvania",374557,Pennsylvania,"Allentown-Bethlehem-Easton, PA-NJ",Metropolitan Statistical Area,,
+42095,"Northampton County, Pennsylvania",312951,Pennsylvania,"Allentown-Bethlehem-Easton, PA-NJ",Metropolitan Statistical Area,,
+42013,"Blair County, Pennsylvania",122822,Pennsylvania,"Altoona, PA",Metropolitan Statistical Area,,"Altoona-Huntingdon, PA"
+24510,"Baltimore city, Maryland",585708,Maryland,"Baltimore-Columbia-Towson, MD",Metropolitan Statistical Area,,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+25001,"Barnstable County, Massachusetts",228996,Massachusetts,"Barnstable Town, MA",Metropolitan Statistical Area,,"Boston-Worcester-Providence, MA-RI-NH-CT"
+25009,"Essex County, Massachusetts",809829,Massachusetts,"Boston-Cambridge-Newton, MA-NH",Metropolitan Statistical Area,"Cambridge-Newton-Framingham, MA","Boston-Worcester-Providence, MA-RI-NH-CT"
+25017,"Middlesex County, Massachusetts",1632002,Massachusetts,"Boston-Cambridge-Newton, MA-NH",Metropolitan Statistical Area,"Cambridge-Newton-Framingham, MA","Boston-Worcester-Providence, MA-RI-NH-CT"
+36057,"Montgomery County, New York",49532,New York,"Amsterdam, NY",Micropolitan Statistical Area,,"Albany-Schenectady, NY"
+25021,"Norfolk County, Massachusetts",725981,Massachusetts,"Boston-Cambridge-Newton, MA-NH",Metropolitan Statistical Area,"Boston, MA","Boston-Worcester-Providence, MA-RI-NH-CT"
+25023,"Plymouth County, Massachusetts",530819,Massachusetts,"Boston-Cambridge-Newton, MA-NH",Metropolitan Statistical Area,"Boston, MA","Boston-Worcester-Providence, MA-RI-NH-CT"
+25025,"Suffolk County, Massachusetts",797936,Massachusetts,"Boston-Cambridge-Newton, MA-NH",Metropolitan Statistical Area,"Boston, MA","Boston-Worcester-Providence, MA-RI-NH-CT"
+33007,"Coos County, New Hampshire",31268,New Hampshire,"Berlin, NH",Micropolitan Statistical Area,,
+33013,"Merrimack County, New Hampshire",153808,New Hampshire,"Concord, NH",Micropolitan Statistical Area,,"Boston-Worcester-Providence, MA-RI-NH-CT"
+33015,"Rockingham County, New Hampshire",314176,New Hampshire,"Boston-Cambridge-Newton, MA-NH",Metropolitan Statistical Area,"Rockingham County-Strafford County, NH","Boston-Worcester-Providence, MA-RI-NH-CT"
+33017,"Strafford County, New Hampshire",130889,New Hampshire,"Boston-Cambridge-Newton, MA-NH",Metropolitan Statistical Area,"Rockingham County-Strafford County, NH","Boston-Worcester-Providence, MA-RI-NH-CT"
+34001,"Atlantic County, New Jersey",274534,New Jersey,"Atlantic City-Hammonton, NJ",Metropolitan Statistical Area,,"Philadelphia-Reading-Camden, PA-NJ-DE-MD"
+36007,"Broome County, New York",198683,New York,"Binghamton, NY",Metropolitan Statistical Area,,
+36011,"Cayuga County, New York",76248,New York,"Auburn, NY",Micropolitan Statistical Area,,"Syracuse-Auburn, NY"
+36029,"Erie County, New York",954236,New York,"Buffalo-Cheektowaga, NY",Metropolitan Statistical Area,,"Buffalo-Cheektowaga-Olean, NY"
+36037,"Genesee County, New York",58388,New York,"Batavia, NY",Micropolitan Statistical Area,,"Rochester-Batavia-Seneca Falls, NY"
+36063,"Niagara County, New York",212666,New York,"Buffalo-Cheektowaga, NY",Metropolitan Statistical Area,,"Buffalo-Cheektowaga-Olean, NY"
+36107,"Tioga County, New York",48455,New York,"Binghamton, NY",Metropolitan Statistical Area,,
+50023,"Washington County, Vermont",59807,Vermont,"Barre, VT",Micropolitan Statistical Area,,"Burlington-South Burlington-Barre, VT"
+42037,"Columbia County, Pennsylvania",64727,Pennsylvania,"Bloomsburg-Berwick, PA",Metropolitan Statistical Area,,"Bloomsburg-Berwick-Sunbury, PA"
+54019,"Fayette County, West Virginia",40488,West Virginia,"Beckley, WV",Metropolitan Statistical Area,,
+54081,"Raleigh County, West Virginia",74591,West Virginia,"Beckley, WV",Metropolitan Statistical Area,,
+42055,"Franklin County, Pennsylvania",155932,Pennsylvania,"Chambersburg-Waynesboro, PA",Metropolitan Statistical Area,,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+50003,"Bennington County, Vermont",37347,Vermont,"Bennington, VT",Micropolitan Statistical Area,,
+51195,"Wise County, Virginia",36130,Virginia,"Big Stone Gap, VA",Micropolitan Statistical Area,,
+51720,"Norton city, Virginia",3687,Virginia,"Big Stone Gap, VA",Micropolitan Statistical Area,,
+42083,"McKean County, Pennsylvania",40432,Pennsylvania,"Bradford, PA",Micropolitan Statistical Area,,
+42093,"Montour County, Pennsylvania",18136,Pennsylvania,"Bloomsburg-Berwick, PA",Metropolitan Statistical Area,,"Bloomsburg-Berwick-Sunbury, PA"
+51071,"Giles County, Virginia",16787,Virginia,"Blacksburg-Christiansburg, VA",Metropolitan Statistical Area,,
+51121,"Montgomery County, Virginia",99721,Virginia,"Blacksburg-Christiansburg, VA",Metropolitan Statistical Area,,
+51155,"Pulaski County, Virginia",33800,Virginia,"Blacksburg-Christiansburg, VA",Metropolitan Statistical Area,,
+51750,"Radford city, Virginia",16070,Virginia,"Blacksburg-Christiansburg, VA",Metropolitan Statistical Area,,
+51021,"Bland County, Virginia",6270,Virginia,"Bluefield, WV-VA",Micropolitan Statistical Area,,
+51185,"Tazewell County, Virginia",40429,Virginia,"Bluefield, WV-VA",Micropolitan Statistical Area,,
+54055,"Mercer County, West Virginia",59664,West Virginia,"Bluefield, WV-VA",Micropolitan Statistical Area,,
+50007,"Chittenden County, Vermont",168323,Vermont,"Burlington-South Burlington, VT",Metropolitan Statistical Area,,"Burlington-South Burlington-Barre, VT"
+50011,"Franklin County, Vermont",49946,Vermont,"Burlington-South Burlington, VT",Metropolitan Statistical Area,,"Burlington-South Burlington-Barre, VT"
+50013,"Grand Isle County, Vermont",7293,Vermont,"Burlington-South Burlington, VT",Metropolitan Statistical Area,,"Burlington-South Burlington-Barre, VT"
+51003,"Albemarle County, Virginia",112395,Virginia,"Charlottesville, VA",Metropolitan Statistical Area,,
+51065,"Fluvanna County, Virginia",27249,Virginia,"Charlottesville, VA",Metropolitan Statistical Area,,
+51079,"Greene County, Virginia",20552,Virginia,"Charlottesville, VA",Metropolitan Statistical Area,,
+51125,"Nelson County, Virginia",14775,Virginia,"Charlottesville, VA",Metropolitan Statistical Area,,
+54005,"Boone County, West Virginia",21809,West Virginia,"Charleston, WV",Metropolitan Statistical Area,,"Charleston-Huntington-Ashland, WV-OH-KY"
+54015,"Clay County, West Virginia",8051,West Virginia,"Charleston, WV",Metropolitan Statistical Area,,"Charleston-Huntington-Ashland, WV-OH-KY"
+54035,"Jackson County, West Virginia",27791,West Virginia,"Charleston, WV",Metropolitan Statistical Area,,"Charleston-Huntington-Ashland, WV-OH-KY"
+54039,"Kanawha County, West Virginia",180745,West Virginia,"Charleston, WV",Metropolitan Statistical Area,,"Charleston-Huntington-Ashland, WV-OH-KY"
+54043,"Lincoln County, West Virginia",20463,West Virginia,"Charleston, WV",Metropolitan Statistical Area,,"Charleston-Huntington-Ashland, WV-OH-KY"
+51540,"Charlottesville city, Virginia",46553,Virginia,"Charlottesville, VA",Metropolitan Statistical Area,,
+54017,"Doddridge County, West Virginia",7808,West Virginia,"Clarksburg, WV",Micropolitan Statistical Area,,
+54033,"Harrison County, West Virginia",65921,West Virginia,"Clarksburg, WV",Micropolitan Statistical Area,,
+54091,"Taylor County, West Virginia",16705,West Virginia,"Clarksburg, WV",Micropolitan Statistical Area,,
+36101,"Steuben County, New York",93584,New York,"Corning, NY",Micropolitan Statistical Area,,"Elmira-Corning, NY"
+36023,"Cortland County, New York",46809,New York,"Cortland, NY",Micropolitan Statistical Area,,"Ithaca-Cortland, NY"
+24001,"Allegany County, Maryland",68106,Maryland,"Cumberland, MD-WV",Metropolitan Statistical Area,,
+54057,"Mineral County, West Virginia",26938,West Virginia,"Cumberland, MD-WV",Metropolitan Statistical Area,,
+51143,"Pittsylvania County, Virginia",60501,Virginia,"Danville, VA",Micropolitan Statistical Area,,
+51590,"Danville city, Virginia",42590,Virginia,"Danville, VA",Micropolitan Statistical Area,,
+10001,"Kent County, Delaware",181851,Delaware,"Dover, DE",Metropolitan Statistical Area,,"Philadelphia-Reading-Camden, PA-NJ-DE-MD"
+42033,"Clearfield County, Pennsylvania",80562,Pennsylvania,"DuBois, PA",Micropolitan Statistical Area,,"State College-DuBois, PA"
+24041,"Talbot County, Maryland",37526,Maryland,"Easton, MD",Micropolitan Statistical Area,,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+42089,"Monroe County, Pennsylvania",168327,Pennsylvania,"East Stroudsburg, PA",Metropolitan Statistical Area,,"New York-Newark, NY-NJ-CT-PA"
+54083,"Randolph County, West Virginia",27932,West Virginia,"Elkins, WV",Micropolitan Statistical Area,,
+36015,"Chemung County, New York",84148,New York,"Elmira, NY",Metropolitan Statistical Area,,"Elmira-Corning, NY"
+42049,"Erie County, Pennsylvania",270876,Pennsylvania,"Erie, PA",Metropolitan Statistical Area,,"Erie-Meadville, PA"
+54049,"Marion County, West Virginia",56205,West Virginia,"Fairmont, WV",Micropolitan Statistical Area,,"Morgantown-Fairmont, WV"
+42001,"Adams County, Pennsylvania",103852,Pennsylvania,"Gettysburg, PA",Metropolitan Statistical Area,,"Harrisburg-York-Lebanon, PA"
+36113,"Warren County, New York",65737,New York,"Glens Falls, NY",Metropolitan Statistical Area,,"Albany-Schenectady, NY"
+36115,"Washington County, New York",61302,New York,"Glens Falls, NY",Metropolitan Statistical Area,,"Albany-Schenectady, NY"
+36035,"Fulton County, New York",53324,New York,"Gloversville, NY",Micropolitan Statistical Area,,"Albany-Schenectady, NY"
+24043,"Washington County, Maryland",154705,Maryland,"Hagerstown-Martinsburg, MD-WV",Metropolitan Statistical Area,,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+54003,"Berkeley County, West Virginia",122076,West Virginia,"Hagerstown-Martinsburg, MD-WV",Metropolitan Statistical Area,,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+54065,"Morgan County, West Virginia",17063,West Virginia,"Hagerstown-Martinsburg, MD-WV",Metropolitan Statistical Area,,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+42041,"Cumberland County, Pennsylvania",259469,Pennsylvania,"Harrisburg-Carlisle, PA",Metropolitan Statistical Area,,"Harrisburg-York-Lebanon, PA"
+42043,"Dauphin County, Pennsylvania",286401,Pennsylvania,"Harrisburg-Carlisle, PA",Metropolitan Statistical Area,,"Harrisburg-York-Lebanon, PA"
+42099,"Perry County, Pennsylvania",45842,Pennsylvania,"Harrisburg-Carlisle, PA",Metropolitan Statistical Area,,"Harrisburg-York-Lebanon, PA"
+51165,"Rockingham County, Virginia",83757,Virginia,"Harrisonburg, VA",Metropolitan Statistical Area,,"Harrisonburg-Staunton, VA"
+51660,"Harrisonburg city, Virginia",51814,Virginia,"Harrisonburg, VA",Metropolitan Statistical Area,,"Harrisonburg-Staunton, VA"
+9003,"Hartford County, Connecticut",899498,Connecticut,"Hartford-East Hartford-Middletown, CT",Metropolitan Statistical Area,,"Hartford-East Hartford, CT"
+9007,"Middlesex County, Connecticut",164245,Connecticut,"Hartford-East Hartford-Middletown, CT",Metropolitan Statistical Area,,"Hartford-East Hartford, CT"
+9013,"Tolland County, Connecticut",149788,Connecticut,"Hartford-East Hartford-Middletown, CT",Metropolitan Statistical Area,,"Hartford-East Hartford, CT"
+36021,"Columbia County, New York",61570,New York,"Hudson, NY",Micropolitan Statistical Area,,"Albany-Schenectady, NY"
+42061,"Huntingdon County, Pennsylvania",44092,Pennsylvania,"Huntingdon, PA",Micropolitan Statistical Area,,"Altoona-Huntingdon, PA"
+54011,"Cabell County, West Virginia",94350,West Virginia,"Huntington-Ashland, WV-KY-OH",Metropolitan Statistical Area,,"Charleston-Huntington-Ashland, WV-OH-KY"
+54079,"Putnam County, West Virginia",57440,West Virginia,"Huntington-Ashland, WV-KY-OH",Metropolitan Statistical Area,,"Charleston-Huntington-Ashland, WV-OH-KY"
+54099,"Wayne County, West Virginia",38982,West Virginia,"Huntington-Ashland, WV-KY-OH",Metropolitan Statistical Area,,"Charleston-Huntington-Ashland, WV-OH-KY"
+42063,"Indiana County, Pennsylvania",83246,Pennsylvania,"Indiana, PA",Micropolitan Statistical Area,,"Pittsburgh-New Castle-Weirton, PA-OH-WV"
+36109,"Tompkins County, New York",105740,New York,"Ithaca, NY",Metropolitan Statistical Area,,"Ithaca-Cortland, NY"
+36013,"Chautauqua County, New York",127657,New York,"Jamestown-Dunkirk-Fredonia, NY",Micropolitan Statistical Area,,
+42021,"Cambria County, Pennsylvania",133472,Pennsylvania,"Johnstown, PA",Metropolitan Statistical Area,,"Johnstown-Somerset, PA"
+33005,"Cheshire County, New Hampshire",76458,New Hampshire,"Keene, NH",Micropolitan Statistical Area,,
+51169,"Scott County, Virginia",21576,Virginia,"Kingsport-Bristol, TN-VA",Metropolitan Statistical Area,,"Johnson City-Kingsport-Bristol, TN-VA"
+51191,"Washington County, Virginia",53935,Virginia,"Kingsport-Bristol, TN-VA",Metropolitan Statistical Area,,"Johnson City-Kingsport-Bristol, TN-VA"
+51520,"Bristol city, Virginia",17219,Virginia,"Kingsport-Bristol, TN-VA",Metropolitan Statistical Area,,"Johnson City-Kingsport-Bristol, TN-VA"
+36111,"Ulster County, New York",181851,New York,"Kingston, NY",Metropolitan Statistical Area,,"New York-Newark, NY-NJ-CT-PA"
+33001,"Belknap County, New Hampshire",63705,New Hampshire,"Laconia, NH",Micropolitan Statistical Area,,"Boston-Worcester-Providence, MA-RI-NH-CT"
+42071,"Lancaster County, Pennsylvania",552984,Pennsylvania,"Lancaster, PA",Metropolitan Statistical Area,,
+33009,"Grafton County, New Hampshire",91118,New Hampshire,"Lebanon, NH-VT",Micropolitan Statistical Area,,
+33019,"Sullivan County, New Hampshire",43063,New Hampshire,"Lebanon, NH-VT",Micropolitan Statistical Area,,
+50017,"Orange County, Vermont",29277,Vermont,"Lebanon, NH-VT",Micropolitan Statistical Area,,
+50027,"Windsor County, Vermont",57753,Vermont,"Lebanon, NH-VT",Micropolitan Statistical Area,,
+42075,"Lebanon County, Pennsylvania",143257,Pennsylvania,"Lebanon, PA",Metropolitan Statistical Area,,"Harrisburg-York-Lebanon, PA"
+42119,"Union County, Pennsylvania",42681,Pennsylvania,"Lewisburg, PA",Micropolitan Statistical Area,,"Bloomsburg-Berwick-Sunbury, PA"
+23001,"Androscoggin County, Maine",111139,Maine,"Lewiston-Auburn, ME",Metropolitan Statistical Area,,"Portland-Lewiston-South Portland, ME"
+42087,"Mifflin County, Pennsylvania",46143,Pennsylvania,"Lewistown, PA",Micropolitan Statistical Area,,
+42035,"Clinton County, Pennsylvania",37450,Pennsylvania,"Lock Haven, PA",Micropolitan Statistical Area,,"Williamsport-Lock Haven, PA"
+51009,"Amherst County, Virginia",31307,Virginia,"Lynchburg, VA",Metropolitan Statistical Area,,
+51011,"Appomattox County, Virginia",16119,Virginia,"Lynchburg, VA",Metropolitan Statistical Area,,
+51019,"Bedford County, Virginia",79462,Virginia,"Lynchburg, VA",Metropolitan Statistical Area,,
+51031,"Campbell County, Virginia",55696,Virginia,"Lynchburg, VA",Metropolitan Statistical Area,,
+51680,"Lynchburg city, Virginia",79009,Virginia,"Lynchburg, VA",Metropolitan Statistical Area,,
+36033,"Franklin County, New York",47555,New York,"Malone, NY",Micropolitan Statistical Area,,
+33011,"Hillsborough County, New Hampshire",422937,New Hampshire,"Manchester-Nashua, NH",Metropolitan Statistical Area,,"Boston-Worcester-Providence, MA-RI-NH-CT"
+51089,"Henry County, Virginia",50948,Virginia,"Martinsville, VA",Micropolitan Statistical Area,,
+51690,"Martinsville city, Virginia",13485,Virginia,"Martinsville, VA",Micropolitan Statistical Area,,
+42039,"Crawford County, Pennsylvania",83938,Pennsylvania,"Meadville, PA",Micropolitan Statistical Area,,"Erie-Meadville, PA"
+54061,"Monongalia County, West Virginia",105822,West Virginia,"Morgantown, WV",Metropolitan Statistical Area,,"Morgantown-Fairmont, WV"
+54077,"Preston County, West Virginia",34216,West Virginia,"Morgantown, WV",Metropolitan Statistical Area,,"Morgantown-Fairmont, WV"
+54045,"Logan County, West Virginia",32567,West Virginia,"Mount Gay-Shamrock, WV",Micropolitan Statistical Area,,"Charleston-Huntington-Ashland, WV-OH-KY"
+42073,"Lawrence County, Pennsylvania",86070,Pennsylvania,"New Castle, PA",Micropolitan Statistical Area,,"Pittsburgh-New Castle-Weirton, PA-OH-WV"
+9009,"New Haven County, Connecticut",864835,Connecticut,"New Haven-Milford, CT",Metropolitan Statistical Area,,"New York-Newark, NY-NJ-CT-PA"
+36059,"Nassau County, New York",1395774,New York,"New York-Newark-Jersey City, NY-NJ-PA",Metropolitan Statistical Area,"Nassau County-Suffolk County, NY","New York-Newark, NY-NJ-CT-PA"
+36103,"Suffolk County, New York",1525920,New York,"New York-Newark-Jersey City, NY-NJ-PA",Metropolitan Statistical Area,"Nassau County-Suffolk County, NY","New York-Newark, NY-NJ-CT-PA"
+34013,"Essex County, New Jersey",863728,New Jersey,"New York-Newark-Jersey City, NY-NJ-PA",Metropolitan Statistical Area,"Newark, NJ-PA","New York-Newark, NY-NJ-CT-PA"
+34019,"Hunterdon County, New Jersey",128947,New Jersey,"New York-Newark-Jersey City, NY-NJ-PA",Metropolitan Statistical Area,"Newark, NJ-PA","New York-Newark, NY-NJ-CT-PA"
+34027,"Morris County, New Jersey",509285,New Jersey,"New York-Newark-Jersey City, NY-NJ-PA",Metropolitan Statistical Area,"Newark, NJ-PA","New York-Newark, NY-NJ-CT-PA"
+34037,"Sussex County, New Jersey",144221,New Jersey,"New York-Newark-Jersey City, NY-NJ-PA",Metropolitan Statistical Area,"Newark, NJ-PA","New York-Newark, NY-NJ-CT-PA"
+34039,"Union County, New Jersey",575345,New Jersey,"New York-Newark-Jersey City, NY-NJ-PA",Metropolitan Statistical Area,"Newark, NJ-PA","New York-Newark, NY-NJ-CT-PA"
+42103,"Pike County, Pennsylvania",58535,Pennsylvania,"New York-Newark-Jersey City, NY-NJ-PA",Metropolitan Statistical Area,"Newark, NJ-PA","New York-Newark, NY-NJ-CT-PA"
+34023,"Middlesex County, New Jersey",863162,New Jersey,"New York-Newark-Jersey City, NY-NJ-PA",Metropolitan Statistical Area,"New Brunswick-Lakewood, NJ","New York-Newark, NY-NJ-CT-PA"
+34025,"Monmouth County, New Jersey",643615,New Jersey,"New York-Newark-Jersey City, NY-NJ-PA",Metropolitan Statistical Area,"New Brunswick-Lakewood, NJ","New York-Newark, NY-NJ-CT-PA"
+34029,"Ocean County, New Jersey",637229,New Jersey,"New York-Newark-Jersey City, NY-NJ-PA",Metropolitan Statistical Area,"New Brunswick-Lakewood, NJ","New York-Newark, NY-NJ-CT-PA"
+34035,"Somerset County, New Jersey",345361,New Jersey,"New York-Newark-Jersey City, NY-NJ-PA",Metropolitan Statistical Area,"New Brunswick-Lakewood, NJ","New York-Newark, NY-NJ-CT-PA"
+34003,"Bergen County, New Jersey",955732,New Jersey,"New York-Newark-Jersey City, NY-NJ-PA",Metropolitan Statistical Area,"New York-Jersey City-White Plains, NY-NJ","New York-Newark, NY-NJ-CT-PA"
+34017,"Hudson County, New Jersey",724854,New Jersey,"New York-Newark-Jersey City, NY-NJ-PA",Metropolitan Statistical Area,"New York-Jersey City-White Plains, NY-NJ","New York-Newark, NY-NJ-CT-PA"
+34031,"Passaic County, New Jersey",524118,New Jersey,"New York-Newark-Jersey City, NY-NJ-PA",Metropolitan Statistical Area,"New York-Jersey City-White Plains, NY-NJ","New York-Newark, NY-NJ-CT-PA"
+36005,"Bronx County, New York",1472654,New York,"New York-Newark-Jersey City, NY-NJ-PA",Metropolitan Statistical Area,"New York-Jersey City-White Plains, NY-NJ","New York-Newark, NY-NJ-CT-PA"
+36047,"Kings County, New York",2736074,New York,"New York-Newark-Jersey City, NY-NJ-PA",Metropolitan Statistical Area,"New York-Jersey City-White Plains, NY-NJ","New York-Newark, NY-NJ-CT-PA"
+36061,"New York County, New York",1694251,New York,"New York-Newark-Jersey City, NY-NJ-PA",Metropolitan Statistical Area,"New York-Jersey City-White Plains, NY-NJ","New York-Newark, NY-NJ-CT-PA"
+36079,"Putnam County, New York",97668,New York,"New York-Newark-Jersey City, NY-NJ-PA",Metropolitan Statistical Area,"New York-Jersey City-White Plains, NY-NJ","New York-Newark, NY-NJ-CT-PA"
+36081,"Queens County, New York",2405464,New York,"New York-Newark-Jersey City, NY-NJ-PA",Metropolitan Statistical Area,"New York-Jersey City-White Plains, NY-NJ","New York-Newark, NY-NJ-CT-PA"
+36085,"Richmond County, New York",495747,New York,"New York-Newark-Jersey City, NY-NJ-PA",Metropolitan Statistical Area,"New York-Jersey City-White Plains, NY-NJ","New York-Newark, NY-NJ-CT-PA"
+36087,"Rockland County, New York",338329,New York,"New York-Newark-Jersey City, NY-NJ-PA",Metropolitan Statistical Area,"New York-Jersey City-White Plains, NY-NJ","New York-Newark, NY-NJ-CT-PA"
+36119,"Westchester County, New York",1004457,New York,"New York-Newark-Jersey City, NY-NJ-PA",Metropolitan Statistical Area,"New York-Jersey City-White Plains, NY-NJ","New York-Newark, NY-NJ-CT-PA"
+9011,"New London County, Connecticut",268555,Connecticut,"Norwich-New London, CT",Metropolitan Statistical Area,,"Hartford-East Hartford, CT"
+34009,"Cape May County, New Jersey",95263,New Jersey,"Ocean City, NJ",Metropolitan Statistical Area,,"Philadelphia-Reading-Camden, PA-NJ-DE-MD"
+36089,"St. Lawrence County, New York",108505,New York,"Ogdensburg-Massena, NY",Micropolitan Statistical Area,,
+42121,"Venango County, Pennsylvania",50454,Pennsylvania,"Oil City, PA",Micropolitan Statistical Area,,
+36009,"Cattaraugus County, New York",77042,New York,"Olean, NY",Micropolitan Statistical Area,,"Buffalo-Cheektowaga-Olean, NY"
+36077,"Otsego County, New York",58524,New York,"Oneonta, NY",Micropolitan Statistical Area,,
+54105,"Wirt County, West Virginia",5194,West Virginia,"Parkersburg-Vienna, WV",Metropolitan Statistical Area,,"Parkersburg-Marietta-Vienna, WV-OH"
+54107,"Wood County, West Virginia",84296,West Virginia,"Parkersburg-Vienna, WV",Metropolitan Statistical Area,,"Parkersburg-Marietta-Vienna, WV-OH"
+34005,"Burlington County, New Jersey",461860,New Jersey,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,"Camden, NJ","Philadelphia-Reading-Camden, PA-NJ-DE-MD"
+34007,"Camden County, New Jersey",523485,New Jersey,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,"Camden, NJ","Philadelphia-Reading-Camden, PA-NJ-DE-MD"
+34015,"Gloucester County, New Jersey",302294,New Jersey,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,"Camden, NJ","Philadelphia-Reading-Camden, PA-NJ-DE-MD"
+42017,"Bucks County, Pennsylvania",646538,Pennsylvania,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,"Montgomery County-Bucks County-Chester County, PA","Philadelphia-Reading-Camden, PA-NJ-DE-MD"
+42029,"Chester County, Pennsylvania",534413,Pennsylvania,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,"Montgomery County-Bucks County-Chester County, PA","Philadelphia-Reading-Camden, PA-NJ-DE-MD"
+42091,"Montgomery County, Pennsylvania",856553,Pennsylvania,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,"Montgomery County-Bucks County-Chester County, PA","Philadelphia-Reading-Camden, PA-NJ-DE-MD"
+42045,"Delaware County, Pennsylvania",576830,Pennsylvania,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,"Philadelphia, PA","Philadelphia-Reading-Camden, PA-NJ-DE-MD"
+42101,"Philadelphia County, Pennsylvania",1603797,Pennsylvania,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,"Philadelphia, PA","Philadelphia-Reading-Camden, PA-NJ-DE-MD"
+10003,"New Castle County, Delaware",570719,Delaware,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,"Wilmington, DE-MD-NJ","Philadelphia-Reading-Camden, PA-NJ-DE-MD"
+24015,"Cecil County, Maryland",103725,Maryland,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,"Wilmington, DE-MD-NJ","Philadelphia-Reading-Camden, PA-NJ-DE-MD"
+34033,"Salem County, New Jersey",64837,New Jersey,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,"Wilmington, DE-MD-NJ","Philadelphia-Reading-Camden, PA-NJ-DE-MD"
+42003,"Allegheny County, Pennsylvania",1250578,Pennsylvania,"Pittsburgh, PA",Metropolitan Statistical Area,,"Pittsburgh-New Castle-Weirton, PA-OH-WV"
+42005,"Armstrong County, Pennsylvania",65558,Pennsylvania,"Pittsburgh, PA",Metropolitan Statistical Area,,"Pittsburgh-New Castle-Weirton, PA-OH-WV"
+42007,"Beaver County, Pennsylvania",168215,Pennsylvania,"Pittsburgh, PA",Metropolitan Statistical Area,,"Pittsburgh-New Castle-Weirton, PA-OH-WV"
+42019,"Butler County, Pennsylvania",193763,Pennsylvania,"Pittsburgh, PA",Metropolitan Statistical Area,,"Pittsburgh-New Castle-Weirton, PA-OH-WV"
+42051,"Fayette County, Pennsylvania",128804,Pennsylvania,"Pittsburgh, PA",Metropolitan Statistical Area,,"Pittsburgh-New Castle-Weirton, PA-OH-WV"
+42125,"Washington County, Pennsylvania",209349,Pennsylvania,"Pittsburgh, PA",Metropolitan Statistical Area,,"Pittsburgh-New Castle-Weirton, PA-OH-WV"
+42129,"Westmoreland County, Pennsylvania",354663,Pennsylvania,"Pittsburgh, PA",Metropolitan Statistical Area,,"Pittsburgh-New Castle-Weirton, PA-OH-WV"
+25003,"Berkshire County, Massachusetts",129026,Massachusetts,"Pittsfield, MA",Metropolitan Statistical Area,,
+36019,"Clinton County, New York",79843,New York,"Plattsburgh, NY",Micropolitan Statistical Area,,
+54053,"Mason County, West Virginia",25453,West Virginia,"Point Pleasant, WV-OH",Micropolitan Statistical Area,,"Charleston-Huntington-Ashland, WV-OH-KY"
+23005,"Cumberland County, Maine",303069,Maine,"Portland-South Portland, ME",Metropolitan Statistical Area,,"Portland-Lewiston-South Portland, ME"
+23023,"Sagadahoc County, Maine",36699,Maine,"Portland-South Portland, ME",Metropolitan Statistical Area,,"Portland-Lewiston-South Portland, ME"
+23031,"York County, Maine",211972,Maine,"Portland-South Portland, ME",Metropolitan Statistical Area,,"Portland-Lewiston-South Portland, ME"
+42107,"Schuylkill County, Pennsylvania",143049,Pennsylvania,"Pottsville, PA",Micropolitan Statistical Area,,
+36027,"Dutchess County, New York",295911,New York,"Poughkeepsie-Newburgh-Middletown, NY",Metropolitan Statistical Area,,"New York-Newark, NY-NJ-CT-PA"
+36071,"Orange County, New York",401310,New York,"Poughkeepsie-Newburgh-Middletown, NY",Metropolitan Statistical Area,,"New York-Newark, NY-NJ-CT-PA"
+25005,"Bristol County, Massachusetts",579200,Massachusetts,"Providence-Warwick, RI-MA",Metropolitan Statistical Area,,"Boston-Worcester-Providence, MA-RI-NH-CT"
+44001,"Bristol County, Rhode Island",50793,Rhode Island,"Providence-Warwick, RI-MA",Metropolitan Statistical Area,,"Boston-Worcester-Providence, MA-RI-NH-CT"
+44003,"Kent County, Rhode Island",170363,Rhode Island,"Providence-Warwick, RI-MA",Metropolitan Statistical Area,,"Boston-Worcester-Providence, MA-RI-NH-CT"
+44005,"Newport County, Rhode Island",85643,Rhode Island,"Providence-Warwick, RI-MA",Metropolitan Statistical Area,,"Boston-Worcester-Providence, MA-RI-NH-CT"
+44007,"Providence County, Rhode Island",660741,Rhode Island,"Providence-Warwick, RI-MA",Metropolitan Statistical Area,,"Boston-Worcester-Providence, MA-RI-NH-CT"
+44009,"Washington County, Rhode Island",129839,Rhode Island,"Providence-Warwick, RI-MA",Metropolitan Statistical Area,,"Boston-Worcester-Providence, MA-RI-NH-CT"
+42011,"Berks County, Pennsylvania",428849,Pennsylvania,"Reading, PA",Metropolitan Statistical Area,,"Philadelphia-Reading-Camden, PA-NJ-DE-MD"
+51007,"Amelia County, Virginia",13265,Virginia,"Richmond, VA",Metropolitan Statistical Area,,
+51036,"Charles City County, Virginia",6773,Virginia,"Richmond, VA",Metropolitan Statistical Area,,
+51041,"Chesterfield County, Virginia",364548,Virginia,"Richmond, VA",Metropolitan Statistical Area,,
+51053,"Dinwiddie County, Virginia",27947,Virginia,"Richmond, VA",Metropolitan Statistical Area,,
+51075,"Goochland County, Virginia",24727,Virginia,"Richmond, VA",Metropolitan Statistical Area,,
+51085,"Hanover County, Virginia",109979,Virginia,"Richmond, VA",Metropolitan Statistical Area,,
+51087,"Henrico County, Virginia",334389,Virginia,"Richmond, VA",Metropolitan Statistical Area,,
+51097,"King and Queen County, Virginia",6608,Virginia,"Richmond, VA",Metropolitan Statistical Area,,
+51101,"King William County, Virginia",17810,Virginia,"Richmond, VA",Metropolitan Statistical Area,,
+51127,"New Kent County, Virginia",22945,Virginia,"Richmond, VA",Metropolitan Statistical Area,,
+51145,"Powhatan County, Virginia",30333,Virginia,"Richmond, VA",Metropolitan Statistical Area,,
+51149,"Prince George County, Virginia",43010,Virginia,"Richmond, VA",Metropolitan Statistical Area,,
+51183,"Sussex County, Virginia",10829,Virginia,"Richmond, VA",Metropolitan Statistical Area,,
+51570,"Colonial Heights city, Virginia",18170,Virginia,"Richmond, VA",Metropolitan Statistical Area,,
+51670,"Hopewell city, Virginia",23033,Virginia,"Richmond, VA",Metropolitan Statistical Area,,
+51730,"Petersburg city, Virginia",33458,Virginia,"Richmond, VA",Metropolitan Statistical Area,,
+51760,"Richmond city, Virginia",226610,Virginia,"Richmond, VA",Metropolitan Statistical Area,,
+51023,"Botetourt County, Virginia",33596,Virginia,"Roanoke, VA",Metropolitan Statistical Area,,
+51045,"Craig County, Virginia",4892,Virginia,"Roanoke, VA",Metropolitan Statistical Area,,
+51067,"Franklin County, Virginia",54477,Virginia,"Roanoke, VA",Metropolitan Statistical Area,,
+51161,"Roanoke County, Virginia",96929,Virginia,"Roanoke, VA",Metropolitan Statistical Area,,
+51770,"Roanoke city, Virginia",100011,Virginia,"Roanoke, VA",Metropolitan Statistical Area,,
+51775,"Salem city, Virginia",25346,Virginia,"Roanoke, VA",Metropolitan Statistical Area,,
+36051,"Livingston County, New York",61834,New York,"Rochester, NY",Metropolitan Statistical Area,,"Rochester-Batavia-Seneca Falls, NY"
+36055,"Monroe County, New York",759443,New York,"Rochester, NY",Metropolitan Statistical Area,,"Rochester-Batavia-Seneca Falls, NY"
+36069,"Ontario County, New York",112458,New York,"Rochester, NY",Metropolitan Statistical Area,,"Rochester-Batavia-Seneca Falls, NY"
+36073,"Orleans County, New York",40343,New York,"Rochester, NY",Metropolitan Statistical Area,,"Rochester-Batavia-Seneca Falls, NY"
+36117,"Wayne County, New York",91283,New York,"Rochester, NY",Metropolitan Statistical Area,,"Rochester-Batavia-Seneca Falls, NY"
+36123,"Yates County, New York",24774,New York,"Rochester, NY",Metropolitan Statistical Area,,"Rochester-Batavia-Seneca Falls, NY"
+50021,"Rutland County, Vermont",60572,Vermont,"Rutland, VT",Micropolitan Statistical Area,,
+42047,"Elk County, Pennsylvania",30990,Pennsylvania,"St. Marys, PA",Micropolitan Statistical Area,,
+10005,"Sussex County, Delaware",237378,Delaware,"Salisbury, MD-DE",Metropolitan Statistical Area,,"Salisbury-Cambridge, MD-DE"
+24039,"Somerset County, Maryland",24620,Maryland,"Salisbury, MD-DE",Metropolitan Statistical Area,,"Salisbury-Cambridge, MD-DE"
+24045,"Wicomico County, Maryland",103588,Maryland,"Salisbury, MD-DE",Metropolitan Statistical Area,,"Salisbury-Cambridge, MD-DE"
+24047,"Worcester County, Maryland",52460,Maryland,"Salisbury, MD-DE",Metropolitan Statistical Area,,"Salisbury-Cambridge, MD-DE"
+42015,"Bradford County, Pennsylvania",59967,Pennsylvania,"Sayre, PA",Micropolitan Statistical Area,,
+42069,"Lackawanna County, Pennsylvania",215896,Pennsylvania,"Scranton--Wilkes-Barre, PA",Metropolitan Statistical Area,,
+42079,"Luzerne County, Pennsylvania",325594,Pennsylvania,"Scranton--Wilkes-Barre, PA",Metropolitan Statistical Area,,
+42131,"Wyoming County, Pennsylvania",26069,Pennsylvania,"Scranton--Wilkes-Barre, PA",Metropolitan Statistical Area,,
+42109,"Snyder County, Pennsylvania",39736,Pennsylvania,"Selinsgrove, PA",Micropolitan Statistical Area,,"Bloomsburg-Berwick-Sunbury, PA"
+36099,"Seneca County, New York",33814,New York,"Seneca Falls, NY",Micropolitan Statistical Area,,"Rochester-Batavia-Seneca Falls, NY"
+42111,"Somerset County, Pennsylvania",74129,Pennsylvania,"Somerset, PA",Micropolitan Statistical Area,,"Johnstown-Somerset, PA"
+25011,"Franklin County, Massachusetts",71029,Massachusetts,"Springfield, MA",Metropolitan Statistical Area,,
+25013,"Hampden County, Massachusetts",465825,Massachusetts,"Springfield, MA",Metropolitan Statistical Area,,
+25015,"Hampshire County, Massachusetts",162308,Massachusetts,"Springfield, MA",Metropolitan Statistical Area,,
+42027,"Centre County, Pennsylvania",158172,Pennsylvania,"State College, PA",Metropolitan Statistical Area,,"State College-DuBois, PA"
+51015,"Augusta County, Virginia",77487,Virginia,"Staunton, VA",Metropolitan Statistical Area,,"Harrisonburg-Staunton, VA"
+51790,"Staunton city, Virginia",25750,Virginia,"Staunton, VA",Metropolitan Statistical Area,,"Harrisonburg-Staunton, VA"
+51820,"Waynesboro city, Virginia",22196,Virginia,"Staunton, VA",Metropolitan Statistical Area,,"Harrisonburg-Staunton, VA"
+42097,"Northumberland County, Pennsylvania",91647,Pennsylvania,"Sunbury, PA",Micropolitan Statistical Area,,"Bloomsburg-Berwick-Sunbury, PA"
+36053,"Madison County, New York",68016,New York,"Syracuse, NY",Metropolitan Statistical Area,,"Syracuse-Auburn, NY"
+36067,"Onondaga County, New York",476516,New York,"Syracuse, NY",Metropolitan Statistical Area,,"Syracuse-Auburn, NY"
+36075,"Oswego County, New York",117525,New York,"Syracuse, NY",Metropolitan Statistical Area,,"Syracuse-Auburn, NY"
+9005,"Litchfield County, Connecticut",185186,Connecticut,"Torrington, CT",Micropolitan Statistical Area,,"New York-Newark, NY-NJ-CT-PA"
+34021,"Mercer County, New Jersey",387340,New Jersey,"Trenton-Princeton, NJ",Metropolitan Statistical Area,,"New York-Newark, NY-NJ-CT-PA"
+36043,"Herkimer County, New York",60139,New York,"Utica-Rome, NY",Metropolitan Statistical Area,,
+36065,"Oneida County, New York",232125,New York,"Utica-Rome, NY",Metropolitan Statistical Area,,
+34011,"Cumberland County, New Jersey",154152,New Jersey,"Vineland-Bridgeton, NJ",Metropolitan Statistical Area,,"Philadelphia-Reading-Camden, PA-NJ-DE-MD"
+25007,"Dukes County, Massachusetts",20600,Massachusetts,"Vineyard Haven, MA",Micropolitan Statistical Area,,
+51073,"Gloucester County, Virginia",38711,Virginia,"Virginia Beach-Norfolk-Newport News, VA-NC",Metropolitan Statistical Area,,"Virginia Beach-Norfolk, VA-NC"
+51093,"Isle of Wight County, Virginia",38606,Virginia,"Virginia Beach-Norfolk-Newport News, VA-NC",Metropolitan Statistical Area,,"Virginia Beach-Norfolk, VA-NC"
+51095,"James City County, Virginia",78254,Virginia,"Virginia Beach-Norfolk-Newport News, VA-NC",Metropolitan Statistical Area,,"Virginia Beach-Norfolk, VA-NC"
+51115,"Mathews County, Virginia",8533,Virginia,"Virginia Beach-Norfolk-Newport News, VA-NC",Metropolitan Statistical Area,,"Virginia Beach-Norfolk, VA-NC"
+51175,"Southampton County, Virginia",17996,Virginia,"Virginia Beach-Norfolk-Newport News, VA-NC",Metropolitan Statistical Area,,"Virginia Beach-Norfolk, VA-NC"
+51199,"York County, Virginia",70045,Virginia,"Virginia Beach-Norfolk-Newport News, VA-NC",Metropolitan Statistical Area,,"Virginia Beach-Norfolk, VA-NC"
+51550,"Chesapeake city, Virginia",249422,Virginia,"Virginia Beach-Norfolk-Newport News, VA-NC",Metropolitan Statistical Area,,"Virginia Beach-Norfolk, VA-NC"
+51620,"Franklin city, Virginia",8180,Virginia,"Virginia Beach-Norfolk-Newport News, VA-NC",Metropolitan Statistical Area,,"Virginia Beach-Norfolk, VA-NC"
+51650,"Hampton city, Virginia",137148,Virginia,"Virginia Beach-Norfolk-Newport News, VA-NC",Metropolitan Statistical Area,,"Virginia Beach-Norfolk, VA-NC"
+51700,"Newport News city, Virginia",186247,Virginia,"Virginia Beach-Norfolk-Newport News, VA-NC",Metropolitan Statistical Area,,"Virginia Beach-Norfolk, VA-NC"
+51710,"Norfolk city, Virginia",238005,Virginia,"Virginia Beach-Norfolk-Newport News, VA-NC",Metropolitan Statistical Area,,"Virginia Beach-Norfolk, VA-NC"
+51735,"Poquoson city, Virginia",12460,Virginia,"Virginia Beach-Norfolk-Newport News, VA-NC",Metropolitan Statistical Area,,"Virginia Beach-Norfolk, VA-NC"
+51740,"Portsmouth city, Virginia",97915,Virginia,"Virginia Beach-Norfolk-Newport News, VA-NC",Metropolitan Statistical Area,,"Virginia Beach-Norfolk, VA-NC"
+51800,"Suffolk city, Virginia",94324,Virginia,"Virginia Beach-Norfolk-Newport News, VA-NC",Metropolitan Statistical Area,,"Virginia Beach-Norfolk, VA-NC"
+51810,"Virginia Beach city, Virginia",459470,Virginia,"Virginia Beach-Norfolk-Newport News, VA-NC",Metropolitan Statistical Area,,"Virginia Beach-Norfolk, VA-NC"
+51830,"Williamsburg city, Virginia",15425,Virginia,"Virginia Beach-Norfolk-Newport News, VA-NC",Metropolitan Statistical Area,,"Virginia Beach-Norfolk, VA-NC"
+42123,"Warren County, Pennsylvania",38587,Pennsylvania,"Warren, PA",Micropolitan Statistical Area,,
+24021,"Frederick County, Maryland",271717,Maryland,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,"Frederick-Gaithersburg-Rockville, MD","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+24031,"Montgomery County, Maryland",1062061,Maryland,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,"Frederick-Gaithersburg-Rockville, MD","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+11001,"District of Columbia, District of Columbia",689545,District of Columbia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+24009,"Calvert County, Maryland",92783,Maryland,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+24017,"Charles County, Maryland",166617,Maryland,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+24033,"Prince George's County, Maryland",967201,Maryland,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+51013,"Arlington County, Virginia",238643,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+51043,"Clarke County, Virginia",14783,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+51047,"Culpeper County, Virginia",52552,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+51059,"Fairfax County, Virginia",1150309,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+51061,"Fauquier County, Virginia",72972,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+51107,"Loudoun County, Virginia",420959,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+51113,"Madison County, Virginia",13837,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+51153,"Prince William County, Virginia",482204,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+51157,"Rappahannock County, Virginia",7348,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+51177,"Spotsylvania County, Virginia",140032,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+51179,"Stafford County, Virginia",156927,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+51187,"Warren County, Virginia",40727,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+51510,"Alexandria city, Virginia",159467,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+51600,"Fairfax city, Virginia",24146,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+51610,"Falls Church city, Virginia",14658,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+51630,"Fredericksburg city, Virginia",27982,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+51683,"Manassas city, Virginia",42772,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+51685,"Manassas Park city, Virginia",17219,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+54037,"Jefferson County, West Virginia",57701,West Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+36045,"Jefferson County, New York",116721,New York,"Watertown-Fort Drum, NY",Metropolitan Statistical Area,,
+54009,"Brooke County, West Virginia",22559,West Virginia,"Weirton-Steubenville, WV-OH",Metropolitan Statistical Area,,"Pittsburgh-New Castle-Weirton, PA-OH-WV"
+54029,"Hancock County, West Virginia",29095,West Virginia,"Weirton-Steubenville, WV-OH",Metropolitan Statistical Area,,"Pittsburgh-New Castle-Weirton, PA-OH-WV"
+54051,"Marshall County, West Virginia",30591,West Virginia,"Wheeling, WV-OH",Metropolitan Statistical Area,,
+54069,"Ohio County, West Virginia",42425,West Virginia,"Wheeling, WV-OH",Metropolitan Statistical Area,,
+42081,"Lycoming County, Pennsylvania",114188,Pennsylvania,"Williamsport, PA",Metropolitan Statistical Area,,"Williamsport-Lock Haven, PA"
+51069,"Frederick County, Virginia",91419,Virginia,"Winchester, VA-WV",Metropolitan Statistical Area,,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+51840,"Winchester city, Virginia",28120,Virginia,"Winchester, VA-WV",Metropolitan Statistical Area,,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+54027,"Hampshire County, West Virginia",23093,West Virginia,"Winchester, VA-WV",Metropolitan Statistical Area,,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA"
+9015,"Windham County, Connecticut",116418,Connecticut,"Worcester, MA-CT",Metropolitan Statistical Area,,"Boston-Worcester-Providence, MA-RI-NH-CT"
+25027,"Worcester County, Massachusetts",862111,Massachusetts,"Worcester, MA-CT",Metropolitan Statistical Area,,"Boston-Worcester-Providence, MA-RI-NH-CT"
+42133,"York County, Pennsylvania",456438,Pennsylvania,"York-Hanover, PA",Metropolitan Statistical Area,,"Harrisburg-York-Lebanon, PA"
+42085,"Mercer County, Pennsylvania",110652,Pennsylvania,"Youngstown-Warren-Boardman, OH-PA",Metropolitan Statistical Area,,"Youngstown-Warren, OH-PA"
+23003,"Aroostook County, Maine",67105,Maine,,,,
+23007,"Franklin County, Maine",29456,Maine,,,,
+23009,"Hancock County, Maine",55478,Maine,,,,
+23013,"Knox County, Maine",40607,Maine,,,,
+23015,"Lincoln County, Maine",35237,Maine,,,,
+23017,"Oxford County, Maine",57777,Maine,,,,
+23021,"Piscataquis County, Maine",16800,Maine,,,,
+23025,"Somerset County, Maine",50477,Maine,,,,
+23027,"Waldo County, Maine",39607,Maine,,,,
+23029,"Washington County, Maine",31095,Maine,,,,
+24011,"Caroline County, Maryland",33293,Maryland,,,,
+24023,"Garrett County, Maryland",28806,Maryland,,,,
+24029,"Kent County, Maryland",19198,Maryland,,,,
+25019,"Nantucket County, Massachusetts",14255,Massachusetts,,,,
+33003,"Carroll County, New Hampshire",50107,New Hampshire,,,,
+36003,"Allegany County, New York",46456,New York,,,,
+36017,"Chenango County, New York",47220,New York,,,,
+36025,"Delaware County, New York",44308,New York,,,,
+36031,"Essex County, New York",37381,New York,,,,
+36039,"Greene County, New York",47931,New York,,,,
+36041,"Hamilton County, New York",5107,New York,,,,
+36049,"Lewis County, New York",26582,New York,,,,
+36097,"Schuyler County, New York",17898,New York,,,,
+36105,"Sullivan County, New York",78624,New York,,,,
+36121,"Wyoming County, New York",40531,New York,,,,
+42009,"Bedford County, Pennsylvania",47577,Pennsylvania,,,,
+42023,"Cameron County, Pennsylvania",4547,Pennsylvania,,,,
+42031,"Clarion County, Pennsylvania",37241,Pennsylvania,,,,
+42053,"Forest County, Pennsylvania",6973,Pennsylvania,,,,
+42057,"Fulton County, Pennsylvania",14556,Pennsylvania,,,,
+42059,"Greene County, Pennsylvania",35954,Pennsylvania,,,,
+42065,"Jefferson County, Pennsylvania",44492,Pennsylvania,,,,
+42067,"Juniata County, Pennsylvania",23509,Pennsylvania,,,,
+42105,"Potter County, Pennsylvania",16396,Pennsylvania,,,,
+42113,"Sullivan County, Pennsylvania",5840,Pennsylvania,,,,
+42115,"Susquehanna County, Pennsylvania",38434,Pennsylvania,,,,
+42117,"Tioga County, Pennsylvania",41045,Pennsylvania,,,,
+42127,"Wayne County, Pennsylvania",51155,Pennsylvania,,,,
+50001,"Addison County, Vermont",37363,Vermont,,,,
+50005,"Caledonia County, Vermont",30233,Vermont,,,,
+50009,"Essex County, Vermont",5920,Vermont,,,,
+50015,"Lamoille County, Vermont",25945,Vermont,,,,
+50019,"Orleans County, Vermont",27393,Vermont,,,,
+50025,"Windham County, Vermont",45905,Vermont,,,,
+51001,"Accomack County, Virginia",33413,Virginia,,,,
+51005,"Alleghany County, Virginia",15223,Virginia,,,,
+51017,"Bath County, Virginia",4209,Virginia,,,,
+51025,"Brunswick County, Virginia",15849,Virginia,,,,
+51027,"Buchanan County, Virginia",20355,Virginia,,,,
+51029,"Buckingham County, Virginia",16824,Virginia,,,,
+51033,"Caroline County, Virginia",30887,Virginia,,,,
+51035,"Carroll County, Virginia",29155,Virginia,,,,
+51037,"Charlotte County, Virginia",11529,Virginia,,,,
+51049,"Cumberland County, Virginia",9675,Virginia,,,,
+51051,"Dickenson County, Virginia",14124,Virginia,,,,
+51057,"Essex County, Virginia",10599,Virginia,,,,
+51063,"Floyd County, Virginia",15476,Virginia,,,,
+51077,"Grayson County, Virginia",15333,Virginia,,,,
+51081,"Greensville County, Virginia",11391,Virginia,,,,
+51083,"Halifax County, Virginia",34022,Virginia,,,,
+51091,"Highland County, Virginia",2232,Virginia,,,,
+51099,"King George County, Virginia",26723,Virginia,,,,
+51103,"Lancaster County, Virginia",10919,Virginia,,,,
+51105,"Lee County, Virginia",22173,Virginia,,,,
+51109,"Louisa County, Virginia",37596,Virginia,,,,
+51111,"Lunenburg County, Virginia",11936,Virginia,,,,
+51117,"Mecklenburg County, Virginia",30319,Virginia,,,,
+51119,"Middlesex County, Virginia",10625,Virginia,,,,
+51131,"Northampton County, Virginia",12282,Virginia,,,,
+51133,"Northumberland County, Virginia",11839,Virginia,,,,
+51135,"Nottoway County, Virginia",15642,Virginia,,,,
+51137,"Orange County, Virginia",36254,Virginia,,,,
+51139,"Page County, Virginia",23709,Virginia,,,,
+51141,"Patrick County, Virginia",17608,Virginia,,,,
+51147,"Prince Edward County, Virginia",21849,Virginia,,,,
+51159,"Richmond County, Virginia",8923,Virginia,,,,
+51163,"Rockbridge County, Virginia",22650,Virginia,,,,
+51167,"Russell County, Virginia",25781,Virginia,,,,
+51171,"Shenandoah County, Virginia",44186,Virginia,,,,
+51173,"Smyth County, Virginia",29800,Virginia,,,,
+51181,"Surry County, Virginia",6561,Virginia,,,,
+51193,"Westmoreland County, Virginia",18477,Virginia,,,,
+51197,"Wythe County, Virginia",28290,Virginia,,,,
+51530,"Buena Vista city, Virginia",6641,Virginia,,,,
+51580,"Covington city, Virginia",5737,Virginia,,,,
+51595,"Emporia city, Virginia",5766,Virginia,,,,
+51640,"Galax city, Virginia",6720,Virginia,,,,
+51678,"Lexington city, Virginia",7320,Virginia,,,,
+54001,"Barbour County, West Virginia",15465,West Virginia,,,,
+54007,"Braxton County, West Virginia",12447,West Virginia,,,,
+54013,"Calhoun County, West Virginia",6229,West Virginia,,,,
+54021,"Gilmer County, West Virginia",7408,West Virginia,,,,
+54023,"Grant County, West Virginia",10976,West Virginia,,,,
+54025,"Greenbrier County, West Virginia",32977,West Virginia,,,,
+54031,"Hardy County, West Virginia",14299,West Virginia,,,,
+54041,"Lewis County, West Virginia",17033,West Virginia,,,,
+54047,"McDowell County, West Virginia",19111,West Virginia,,,,
+54059,"Mingo County, West Virginia",23568,West Virginia,,,,
+54063,"Monroe County, West Virginia",12376,West Virginia,,,,
+54067,"Nicholas County, West Virginia",24604,West Virginia,,,,
+54071,"Pendleton County, West Virginia",6143,West Virginia,,,,
+54073,"Pleasants County, West Virginia",7653,West Virginia,,,,
+54075,"Pocahontas County, West Virginia",7869,West Virginia,,,,
+54085,"Ritchie County, West Virginia",8444,West Virginia,,,,
+54087,"Roane County, West Virginia",14028,West Virginia,,,,
+54089,"Summers County, West Virginia",11959,West Virginia,,,,
+54093,"Tucker County, West Virginia",6762,West Virginia,,,,
+54095,"Tyler County, West Virginia",8313,West Virginia,,,,
+54097,"Upshur County, West Virginia",23816,West Virginia,,,,
+54101,"Webster County, West Virginia",8378,West Virginia,,,,
+54103,"Wetzel County, West Virginia",14442,West Virginia,,,,
+54109,"Wyoming County, West Virginia",21382,West Virginia,,,,
